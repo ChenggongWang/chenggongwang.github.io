@@ -19,8 +19,8 @@ Education
   
 Publications
 ======
-  <ul>Wang, C., Soden, B. J., Yang, W., & Vecchi, G. A. (2021). Compensation between cloud feedback and aerosol-cloud interaction in CMIP6 models. Geophysical Research Letters, 48, e2020GL091024. ([Link](https://doi.org/10.1029/2020GL091024))</ul>  
-  <ul>Wang, C., Hu, Y., Wen, X., Zhou, C., & Liu, J. (2020). Inter-model spread of the climatological annual mean Hadley circulation and its relationship with the double ITCZ bias in CMIP5. Climate Dynamics, 55(9), 2823-2834. ([Link](https://link.springer.com/article/10.1007/s00382-020-05414-z))</ul>
+* Wang, C., Soden, B. J., Yang, W., & Vecchi, G. A. (2021). Compensation between cloud feedback and aerosol-cloud interaction in CMIP6 models. Geophysical Research Letters, 48, e2020GL091024. ([Link](https://doi.org/10.1029/2020GL091024)) 
+* Wang, C., Hu, Y., Wen, X., Zhou, C., & Liu, J. (2020). Inter-model spread of the climatological annual mean Hadley circulation and its relationship with the double ITCZ bias in CMIP5. Climate Dynamics, 55(9), 2823-2834. ([Link](https://link.springer.com/article/10.1007/s00382-020-05414-z))
   
 Talks
 ======
