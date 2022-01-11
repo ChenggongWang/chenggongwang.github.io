@@ -25,6 +25,9 @@ Publications
 Talks
 ======
   
-Teaching
+Teaching Assistant
 ======
+* Introduction to Ocean Physics for Climate, Princeton University, Fall 2021
+* Fluid Dynamics, Peking University,	Fall 2017
+
 
