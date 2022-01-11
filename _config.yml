@@ -87,7 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=biQeiB8AAAAJ&hl=en"
-  email            :
+  cv               : "https://chenggongwang.github.io/cv/"
+  email            : "c.wang@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
