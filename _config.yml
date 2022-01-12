@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chenggong Wang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chenggong Wang"
 description              : &description "Phd Candidate @ Princeton University"
