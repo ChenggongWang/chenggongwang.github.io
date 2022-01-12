@@ -14,10 +14,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric and Oceanic Sciences, Princeton University, 2024 (expected)
-* M.A. in Atmospheric and Oceanic Sciences, Princeton University, 2021
-* M.S. in Physical Oceanography, Peking University, 2019
-* B.S. in Atmospheric Sciences, Peking University, 2016
+Princeton University, Princeton, NJ
+* Ph.D in Atmospheric and Oceanic Sciences, 2024 (expected)
+* M.A. in Atmospheric and Oceanic Sciences, September 2021
+Peking University, Beijing, China
+* M.S. in Physical Oceanography, July 2019
+* B.S. in Atmospheric Sciences, July 2016
 
   
 Publications
