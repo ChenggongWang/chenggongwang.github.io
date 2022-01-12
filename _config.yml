@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Chenggong Wang"
 title_separator          : "-"
-name                     : &name "Chenggong Wang"
+name                     : &name ""
 description              : &description "Phd Candidate @ Princeton University"
 url                      : https://chenggongwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,14 +84,9 @@ author:
   avatar           : "Screen Shot 2021-11-16 at 2.28.46 PM.png"
   bio              : "Phd Candidate @ Princeton University"
   location         : "Princeton, NJ"
-  employer         :
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=biQeiB8AAAAJ&hl=en"
   email            : "c.wang@princeton.edu"
-  foursquare       :
   github           : "chenggongwang"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
 
