@@ -35,8 +35,8 @@ Publications
   
 Teaching 
 ======
-* Introduction to Ocean Physics for Climate, Princeton University, Fall 2021
-* Fluid Dynamics, Peking University,	Fall 2017
+* TA, Introduction to Ocean Physics for Climate, Princeton University, Fall 2021
+* TA, Fluid Dynamics, Peking University,	Fall 2017
 * Mentor for Undergraduates in School of Physics, Fall 2017 - Spring 2019
   
 Presentations
