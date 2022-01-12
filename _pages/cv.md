@@ -14,15 +14,11 @@ redirect_from:
 
 Education
 ======
-Princeton University, Princeton, NJ
-
-Adviser: Gabriel A. Vecchi 
+Princeton University, Princeton, NJ | Adviser: Gabriel A. Vecchi 
 * Ph.D in Atmospheric and Oceanic Sciences, 2024 (expected)
 * M.A. in Atmospheric and Oceanic Sciences, September 2021
 
-Peking University, Beijing, China
-
-Adviser: Yongyun Hu, Xinyu Wen
+Peking University, Beijing, China | Adviser: Yongyun Hu, Xinyu Wen
 * M.S. in Physical Oceanography, July 2019
 * B.S. in Atmospheric Sciences, July 2016
   
