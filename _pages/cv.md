@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * Ph.D in Atmospheric and Oceanic Sciences, Princeton University, 2024 (expected)
