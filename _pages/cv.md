@@ -30,13 +30,13 @@ Publications
 
 Teaching 
 ======
-* TA, Introduction to Ocean Physics for Climate, Princeton University, Fall 2021
+* TA, (GEO425) Introduction to Ocean Physics for Climate, Princeton University, Fall 2021
 * TA, Fluid Dynamics, Peking University,	Fall 2017
 * Mentor for Undergraduates in School of Physics, Fall 2017 - Spring 2019
  
 Service 
 ======
-* Reviewer, Geophysical Research Letter, Journal of Climate
+* Reviewer, Geophysical Research Letter, Journal of Climate, Climate Dynamics
 * Organizer, Princeton AOS Workshop on Climate Tipping Point, July 2021
 * Mentor for Undergraduates, School of Physics, Peking University, Fall 2017 - Spring 2019
 
