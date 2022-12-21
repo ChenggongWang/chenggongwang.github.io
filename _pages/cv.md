@@ -35,12 +35,14 @@ Teaching
  
 Service 
 ======
-* Reviewer for Geophysical Research Letter, Journal of Climate, Climate Dynamics and Proceedings of the National Academy of Sciences
-* Organizer, Princeton AOS Workshop on Climate Tipping Point, July 2021
+* Reviewer for __*Geophysical Research Letter*__, __*Journal of Climate*__, __*Climate Dynamics*__ and __*Proceedings of the National Academy of Sciences*__
+* Organizer, Princeton AOS Workshop on *Climate Tipping Point*, July 2021
 * Mentor for Undergraduates, School of Physics, Peking University, Fall 2017 - Spring 2019
 
 Presentations
 ======
+* Wang, C., Feng, J., Menzel, R., & Paynter, D.  "Using Neural Network to Emulate the Radiative Transfer" AGU Fall meeting. Chicago. Dec 2022. Poster Presentation. 
+* Wang, C., Soden, B. J., Yang, W., Vecchi, G. A., & Zhang, B.  "Diagnose the SST contribution to the intermodel spread of climate feedbacks in CMIP6" AGU Fall meeting. Chicago. Dec 2022. Poster Presentation.
 * Wang, C., Chan, D., Soden, B. J., Yang, W., & Vecchi, G. A. "Using the Interhemispheric Asymmetry of Warming to Constrain the Climate Sensitivity." AGU Fall meeting. New Orleans. Dec 2021. Oral Presentation.
 * Wang, C., Soden, B. J., Yang, W., & Vecchi, G. A. "Intermodel compensation between cloud feedback and aerosol indirect effect in CMIP6." AGU Fall meeting. Online. Dec 2020. Oral Presentation.
 * Wang, C., Hu, Y., Wen, X. "Model performances in simulating the Hadley Circulation and its trends in CMIP5 simulations." AGU Fall meeting. Washington, D.C. Dec 2018. Poster Presentation.
