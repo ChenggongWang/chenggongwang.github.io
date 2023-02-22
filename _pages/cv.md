@@ -41,11 +41,11 @@ Service
 
 Presentations
 ======
-* Wang, C., Feng, J., Menzel, R., & Paynter, D.  "Using Neural Network to Emulate the Radiative Transfer" AGU Fall meeting. Chicago. Dec 2022. Poster Presentation. 
+* Wang, C., Feng, J., Menzel, R., & Paynter, D.  "Using Neural Network to Emulate the Radiative Transfer" AGU Fall meeting. Chicago. Dec 2022. Poster Presentation. (__*OUTSTANDING STUDENT PRESENTATION AWARDS (OSPA)*__)
 * Wang, C., Soden, B. J., Yang, W., Vecchi, G. A., & Zhang, B.  "Diagnose the SST contribution to the intermodel spread of climate feedbacks in CMIP6" AGU Fall meeting. Chicago. Dec 2022. Poster Presentation.
 * Wang, C., Chan, D., Soden, B. J., Yang, W., & Vecchi, G. A. "Using the Interhemispheric Asymmetry of Warming to Constrain the Climate Sensitivity." AGU Fall meeting. New Orleans. Dec 2021. Oral Presentation.
 * Wang, C., Soden, B. J., Yang, W., & Vecchi, G. A. "Intermodel compensation between cloud feedback and aerosol indirect effect in CMIP6." AGU Fall meeting. Online. Dec 2020. Oral Presentation.
 * Wang, C., Hu, Y., Wen, X. "Model performances in simulating the Hadley Circulation and its trends in CMIP5 simulations." AGU Fall meeting. Washington, D.C. Dec 2018. Poster Presentation.
 * Wang, C., Hu, Y., Wen, X. "Relationship between the Hadley Circulation and Mid-latitude SST in CMIP5 Simulations." AGU Fall meeting. New Orleans. Dec 2017. Poster Presentation.
-* Wang, C., Hu, Y., Wen, X. "Correlation between Intensity of the Hadley Circulation and Asian and Australian Monsoon Circulations in Summer." AOGS Annual Meeting.	Beijing. Aug 2016. Poster Presentation (Awarded Best Student Poster).
+* Wang, C., Hu, Y., Wen, X. "Correlation between Intensity of the Hadley Circulation and Asian and Australian Monsoon Circulations in Summer." AOGS Annual Meeting.	Beijing. Aug 2016. Poster Presentation (__*Awarded Best Student Poster*__).
 
