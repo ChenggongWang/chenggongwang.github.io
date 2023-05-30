@@ -24,7 +24,9 @@ Peking University, Beijing, China | Adviser: Yongyun Hu, Xinyu Wen
   
 Publications
 ======
-* (To be submitted) Wang, C., Chan, D., Soden, B. J., Yang, W., & Vecchi, G. A.  Using the Interhemispheric Asymmetry of Warming to Constrain the Climate Sensitivity.
+* (To be submitted) Wang, C., Soden, B. J., Yang, W.,  Vecchi, G. A, Zhang, B. & Chan, D. Diagnose the factors that contribute to the intermodel spread of climate feedback in CMIP6.
+* Hsieh, T. L., Zhang, B., Yang, W., Vecchi, G. A., Zhao, M., Soden, B. J., & Wang, C. (2023). The Influence of Large-Scale Radiation Anomalies on Tropical Cyclone Frequency. Journal of Climate, 1-24. ([doi.org/10.1175/JCLI-D-22-0449.1](https://doi.org/10.1175/JCLI-D-22-0449.1))
+* Liu, M., Soden, B. J., Vecchi, G. A., & Wang, C. (2023). The spread of ocean heat uptake efficiency traced to ocean salinity. Geophysical research letters, 50(4), e2022GL100171. ([doi.org/10.1029/2022GL100171](https://doi.org/10.1029/2022GL100171))
 * Wang, C., Soden, B. J., Yang, W., & Vecchi, G. A. (2021). Compensation between cloud feedback and aerosol-cloud interaction in CMIP6 models. Geophysical Research Letters, 48, e2020GL091024. ([doi.org/10.1029/2020GL091024](https://doi.org/10.1029/2020GL091024)) 
 * Wang, C., Hu, Y., Wen, X., Zhou, C., & Liu, J. (2020). Inter-model spread of the climatological annual mean Hadley circulation and its relationship with the double ITCZ bias in CMIP5. Climate Dynamics, 55(9), 2823-2834. ([doi.org/10.1007/s00382-020-05414-z](https://link.springer.com/article/10.1007/s00382-020-05414-z))
 
