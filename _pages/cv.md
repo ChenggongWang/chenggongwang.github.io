@@ -15,7 +15,7 @@ redirect_from:
 Education
 ======
 Princeton University, Princeton, NJ | Adviser: Gabriel A. Vecchi 
-* Ph.D student in Atmospheric and Oceanic Sciences, September 2019-present 
+* Ph.D. student in Atmospheric and Oceanic Sciences, September 2019-present 
 * M.A. in Atmospheric and Oceanic Sciences, September 2021
 
 Peking University, Beijing, China | Adviser: Yongyun Hu, Xinyu Wen
@@ -24,7 +24,8 @@ Peking University, Beijing, China | Adviser: Yongyun Hu, Xinyu Wen
   
 Publications
 ======
-* (To be submitted) Wang, C., Soden, B. J., Yang, W.,  Vecchi, G. A, Zhang, B. & Chan, D. Diagnose the factors that contribute to the intermodel spread of climate feedback in CMIP6.
+* (To be submitted) Wang, C., Feng, J., Menzel, R., Paynter, D., Vecchi, G. A. A Hybrid Data-driven and Physics-based Framework for Atmospheric Radiative Transfer Model.
+* (In Review) Wang, C., Soden, B. J., Yang, W.,  Vecchi, G. A, Zhang, B. & Chan, D. Diagnose the factors that contribute to the intermodel spread of climate feedback in CMIP6.
 * Hsieh, T. L., Zhang, B., Yang, W., Vecchi, G. A., Zhao, M., Soden, B. J., & Wang, C. (2023). The Influence of Large-Scale Radiation Anomalies on Tropical Cyclone Frequency. Journal of Climate, 1-24. ([doi.org/10.1175/JCLI-D-22-0449.1](https://doi.org/10.1175/JCLI-D-22-0449.1))
 * Liu, M., Soden, B. J., Vecchi, G. A., & Wang, C. (2023). The spread of ocean heat uptake efficiency traced to ocean salinity. Geophysical research letters, 50(4), e2022GL100171. ([doi.org/10.1029/2022GL100171](https://doi.org/10.1029/2022GL100171))
 * Wang, C., Soden, B. J., Yang, W., & Vecchi, G. A. (2021). Compensation between cloud feedback and aerosol-cloud interaction in CMIP6 models. Geophysical Research Letters, 48, e2020GL091024. ([doi.org/10.1029/2020GL091024](https://doi.org/10.1029/2020GL091024)) 
