@@ -26,6 +26,8 @@ Publications
 ======
 * (To be submitted) Wang, C., Feng, J., Menzel, R., Paynter, D., Vecchi, G. A. A Hybrid Data-driven and Physics-based Framework for Atmospheric Radiative Transfer Model.
 * (In Review) Wang, C., Soden, B. J., Yang, W.,  Vecchi, G. A, Zhang, B. & Chan, D. Diagnose the factors that contribute to the intermodel spread of climate feedback in CMIP6.
+* Feng, J., Paynter, D. J., Wang, C., & Menzel, R. (2023). How Atmospheric Humidity Drives the Outgoing Longwave Radiation-Surface Temperature Relationship and Inter-Model Spread. Environmental Research Letters.  (10.1088/1748-9326/acfb98)
+* Zhang, B., Zhao, M., He H., Soden, B. J., Tan, Z., Xiang, B., & Wang, C. (2023) The Dependence of Climate Sensitivity on the Meridional Distribution of Radiative Forcing. Geophysical research letters, 50, e2023GL105492. (http://doi.org/10.1029/2023GL105492)
 * Hsieh, T. L., Zhang, B., Yang, W., Vecchi, G. A., Zhao, M., Soden, B. J., & Wang, C. (2023). The Influence of Large-Scale Radiation Anomalies on Tropical Cyclone Frequency. Journal of Climate, 1-24. ([doi.org/10.1175/JCLI-D-22-0449.1](https://doi.org/10.1175/JCLI-D-22-0449.1))
 * Liu, M., Soden, B. J., Vecchi, G. A., & Wang, C. (2023). The spread of ocean heat uptake efficiency traced to ocean salinity. Geophysical research letters, 50(4), e2022GL100171. ([doi.org/10.1029/2022GL100171](https://doi.org/10.1029/2022GL100171))
 * Wang, C., Soden, B. J., Yang, W., & Vecchi, G. A. (2021). Compensation between cloud feedback and aerosol-cloud interaction in CMIP6 models. Geophysical Research Letters, 48, e2020GL091024. ([doi.org/10.1029/2020GL091024](https://doi.org/10.1029/2020GL091024)) 
